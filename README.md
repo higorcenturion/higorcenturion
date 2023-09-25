@@ -1,12 +1,6 @@
 ### Olá Mundo 👋, Eu sou Higor Centurion
 
-<!--
-**higorcenturion/higorcenturion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 Sou um profissional com mais de 6 anos de experiência em pesquisa e desenvolvimento de materiais voltados para área de energia renovável. Sou doutor em Física pela Universidade de São Paulo(USP) e formado em Física pela Universidade Federal da Grande Dourados (UFGD), justamente devida a minha formação, tenho sólida base matemática e estatística. Possuo experiência em pesquisa, gestão de projetos, modelagem estatística, análise de dados, supervisão de pessoal e ensaios físico-químicos além de conhecimento das linguagens SQL e Python com as bibliotecas pandas, numpy e matplotlib. Atualmente cursa Especialização em Ciência de Dados, visando redirecionar os conhecimentos e habilidades adquiridas durante a formação em Física para a área de Ciência de Dados.
-
 
 ### Transição de carreira
 Decidi dar início a minha transição de carreira a partir de janeiro de 2023, antes mesmo de finalizar o meu processo de doutoramento. A minha transição se dá para a carreira de ciência de dados, para tal, iniciei por reforçar fundamentos e lógica de programação, seguido pelo aprofundamento e revisão de duas linguagens muito pertinentes para a área em questão, Python e SQL. Após a conclusão do meu doutorado, iniciei minha especialização em Ciência de Dados pela Unisociesc em Jaraguá do Sul. Atualmente busco minha recolocação no mercado de trabalho.
@@ -51,4 +45,5 @@ Habilidades desenvolvidas:
 - SQL
 - Google Colab
 
--->
+<!--
+**higorcenturion/higorcenturion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
