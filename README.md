@@ -45,5 +45,18 @@ Habilidades desenvolvidas:
 - SQL
 - Google Colab
 
+### Projetos
+- **Análise do comportamento de retiradas de livros dos acervos das bibliotecas da UFRN:**
+Este projeto consiste em realizar o processo de ETL no conjunto de dados referentes as retiradas de livros das bibliotecas da UFRN, ao longo dos anos de 2010 até 2020, e análisar o comportamento destes dados a fim de retirar insights relevantes e de interesse para áres estratégicas para os gestores das bibliotecas.
+link: (https://github.com/higorcenturion/Analise-do-comportamento-de-retiradas-de-livros-dos-acervos-das-bibliotecas-da-UFRN)
+
+- **Business Intelligence com Excel:**
+Este é o projeto final da formação Bussines Intelligence com Excel da Alura. Este projeto tenta resolver um problema de negócios da uma rede de cafeteria fictícia, chamada Serenato Café, atravéz de uma análise de inteligência de negócios utilizando o Excel para construção de dashboards relevantes.
+link: (https://github.com/higorcenturion/Business-Intelligence-com-Excel)
+
+- **Churn prediction __ Alura Challenge**
+Assumimos o papel de um cientista de dados na empresa fictícia, de telecomunicações, Novexus. Como principal atividade, nos foi proposto construir um modelo capaz de predizer se um clientes terá ou não potencial para cancelar o contrato com a empresa (Churn).
+link: (https://github.com/higorcenturion/Churn-prediction---Alura-Challenge)
+
 <!--
 **higorcenturion/higorcenturion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
