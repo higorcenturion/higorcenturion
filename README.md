@@ -46,6 +46,10 @@ Habilidades desenvolvidas:
 - Google Colab
 
 ### Projetos
+- **Análise de dados de uma instituição financeira:**
+Este projeto tem por objetivo analisar os dados de clientes, de uma instituição financeira fictícia, que solicitaram liberação de crédito. O projeto em questão parte de uma provocação proposta pela Alura, no qual são disponibilizados conjuntos de dados e demandas com o objetivo de simular a vivência no mercado de trabalho.
+link: (https://github.com/higorcenturion/Analise-de-dados-Instituicao-Financeira)
+
 - **Análise do comportamento de retiradas de livros dos acervos das bibliotecas da UFRN:**
 Este projeto consiste em realizar o processo de ETL no conjunto de dados referentes as retiradas de livros das bibliotecas da UFRN, ao longo dos anos de 2010 até 2020, e análisar o comportamento destes dados a fim de retirar insights relevantes e de interesse para áres estratégicas para os gestores das bibliotecas.
 link: (https://github.com/higorcenturion/Analise-do-comportamento-de-retiradas-de-livros-dos-acervos-das-bibliotecas-da-UFRN)
